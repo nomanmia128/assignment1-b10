@@ -1,6 +1,5 @@
 /* Google font */
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 *{
     box-sizing: border-box;
     margin: 0;
@@ -8,7 +7,7 @@
 }
 
 body{
-    font-family: "Azeret Mono", monospace;
+    font-family: "Open Sans", sans-serif;
 }
 
 /* Banner style start */
@@ -61,9 +60,9 @@ header{
 .why-section{
     width: 1140px;
     height: 1393px;
-    border: 2px solid red;
     margin: 0 auto;
     margin-top: 74px;
+    background: rgba(13, 19, 33, 0.02);
 }
 
 .why-header-section{
@@ -89,31 +88,38 @@ header{
     margin-top: 20px;
 }
 
-/* ------ */
-.world-section{
+/* World section style strat */
+.world-section, .system-section, .world-sectionn{
     width: 946px;
     height: 336px;
-    border: 2px solid yellow;
     margin: 0 auto;
     margin-top: 48px;
     display: flex;
     padding: 50px;
+    background-color: rgb(247, 247, 252);
+    border-radius: 16px;
 }
 
-.world-section-contant{
+.world-section-contant, 
+.system-section-contant,
+.world-sectionn-contant{
     width: 477px;
     height: 219px;
-    border: 2px solid hotpink;
     margin: 0 auto;
 }
 
-.world-section-contant h3{
+.world-section-contant h3,
+.system-section-contant h3,
+.world-sectionn-contant h3{
     font-size: 24px;
     font-weight: 700;
     margin-top: 15px;
+    color: rgba(13, 19, 33, 0.7);
 }
 
-.world-section-contant p{
+.world-section-contant p,
+.system-section-contant p,
+.world-sectionn-contant p{
     font-size: 16px;
     font-weight: 400;
     margin-top: 18px;
@@ -127,26 +133,22 @@ header{
 }
 
 
-.layer-img{
+.layer-img,
+.group3-img,
+.group4-img{
     width: 259px;
     height: 217px;
-    border: 2px solid firebrick;
     margin: 0 auto;
 }
 
 
-/* .system-sextion{
-    width: 946px;
-    height: 336px;
-    border: 2px solid rgb(32, 154, 240);
-    margin: 0 auto;
-    margin-top: 32px;
-}
 
-.world-sectionn{
-    width: 946px;
-    height: 336px;
-    border: 2px solid rgb(37, 15, 236);
-    margin: 0 auto;
-    margin-top: 32px;
-} */
+
+
+
+
+
+
+
+
+
