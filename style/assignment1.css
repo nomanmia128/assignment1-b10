@@ -141,11 +141,50 @@ header{
     margin: 0 auto;
 }
 
+/* My Inspiration section styles start*/
+.Inspiration-section-container{
+    width: 1140px;
+    height: 775px;
+    margin: 0 auto;
+    margin-top: 90px;
+} 
 
+.Inspiration-text-section{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.Inspiration-text-section h3{
+    font-size: 32px;
+    font-weight: 800;
+}
+.Inspiration-text-section p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+}
 
+/*  */
+.inspiration-youtub-vedio{
+    width: 1140px;
+    height: 639px;
+    border: 2px solid rgb(235, 245, 238);
+    margin-top: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+}
 
-
-
+.inspiration-youtub-vedio iframe{
+    border-radius: 18px;
+}
 
 
 
