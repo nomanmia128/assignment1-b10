@@ -57,3 +57,96 @@ header{
     padding: 21px 24px 21px 24px;
 }
 
+/* why web Devolopment section styles */
+.why-section{
+    width: 1140px;
+    height: 1393px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 74px;
+}
+
+.why-header-section{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.why-header-section h2{
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.why-header-section p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+/* ------ */
+.world-section{
+    width: 946px;
+    height: 336px;
+    border: 2px solid yellow;
+    margin: 0 auto;
+    margin-top: 48px;
+    display: flex;
+    padding: 50px;
+}
+
+.world-section-contant{
+    width: 477px;
+    height: 219px;
+    border: 2px solid hotpink;
+    margin: 0 auto;
+}
+
+.world-section-contant h3{
+    font-size: 24px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+
+.world-section-contant p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 18px;
+}
+
+.lorem-btn{
+    padding: 12px 20px 12px 20px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+
+.layer-img{
+    width: 259px;
+    height: 217px;
+    border: 2px solid firebrick;
+    margin: 0 auto;
+}
+
+
+/* .system-sextion{
+    width: 946px;
+    height: 336px;
+    border: 2px solid rgb(32, 154, 240);
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+.world-sectionn{
+    width: 946px;
+    height: 336px;
+    border: 2px solid rgb(37, 15, 236);
+    margin: 0 auto;
+    margin-top: 32px;
+} */
