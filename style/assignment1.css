@@ -1,5 +1,6 @@
 /* Google font */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -60,6 +61,7 @@ header{
     text-decoration: none;
     color: white;
 }
+/* banner style end */
 
 /* why web Devolopment section styles */
 .why-section{
@@ -147,6 +149,7 @@ header{
     height: 217px;
     margin: 0 auto;
 }
+/* why web Devolopment section end */
 
 /* My Inspiration section styles start*/
 .Inspiration-section-container{
@@ -178,7 +181,7 @@ header{
     color: #888787;
 }
 
-/*  */
+
 .inspiration-youtub-vedio{
     width: 1140px;
     height: 639px;
@@ -194,6 +197,7 @@ header{
 .inspiration-youtub-vedio iframe{
     border-radius: 18px;
 }
+/* My Inspiration section style end */
 
 
 /*  My Current Target Section styles start */
@@ -281,7 +285,7 @@ header{
     font-weight: 700;
     color: rgb(13, 19, 33);
 }
-/* My Current Target Section styles end */
+/* My Current Target Section style end */
 
 /* support section styles start */
 .support-section-container{
@@ -336,12 +340,11 @@ header{
     font-weight: 400;
     color: #474747;
 }
-.submit{
-    width: 120px;
-    height: 57px;
-    padding: 17px 20px 17px 20px;
+.submit-btn{
+    padding: 15px 20px 15px 20px;
     background: rgb(255, 255, 255);
     border-radius: 8px;
+    border: none;
     font-size: 20px;
     font-weight: 600;
 }
