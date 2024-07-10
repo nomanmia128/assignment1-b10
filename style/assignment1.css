@@ -41,7 +41,7 @@ header{
     font-size: 16px;
     font-weight: 400;
     margin-top: 24px;
-    color: rgb(13, 19, 33);
+    color: #888787;
 }
 
 
@@ -91,6 +91,7 @@ header{
     font-size: 16px;
     font-weight: 400;
     margin-top: 20px;
+    color: #888787;
 }
 
 /* World section style strat */
@@ -128,6 +129,7 @@ header{
     font-size: 16px;
     font-weight: 400;
     margin-top: 18px;
+    color: #888787;
 }
 
 .lorem-btn{
@@ -173,6 +175,7 @@ header{
     font-size: 16px;
     font-weight: 400;
     margin-top: 20px;
+    color: #888787;
 }
 
 /*  */
@@ -220,6 +223,7 @@ header{
     font-weight: 400;
     margin-top: 10px;
     text-align: center;
+    color: #888787;
 }
 
 /* target card section   */
@@ -270,6 +274,7 @@ header{
     font-weight: 400;
     margin-top: 8px;
     margin-bottom: 16px;
+    color: #888787;
 }
 .target-card-item a{
     font-size: 16px;
@@ -317,7 +322,7 @@ header{
     font-size: 16px;
     font-weight: 400;
     padding-bottom: 20px;
-    color: white;
+    color: rgb(225, 223, 223);
 }
 
 .text{
